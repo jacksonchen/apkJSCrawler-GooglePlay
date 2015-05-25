@@ -1,0 +1,19 @@
+{
+  "name": "apkJSCrawler-GooglePlay",
+  "version": "1.0.0",
+  "description": "Google Play plugin for apkJSCrawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacksonchen/apkJSCrawler-GooglePlay.git"
+  },
+  "author": "Jackson Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonchen/apkJSCrawler-GooglePlay/issues"
+  },
+  "homepage": "https://github.com/jacksonchen/apkJSCrawler-GooglePlay"
+}
