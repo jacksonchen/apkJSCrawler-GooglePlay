@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jacksonchen/apkJSCrawler-GooglePlay/issues"
   },
-  "homepage": "https://github.com/jacksonchen/apkJSCrawler-GooglePlay"
+  "homepage": "https://github.com/jacksonchen/apkJSCrawler-GooglePlay",
+  "dependencies": {
+    "lodash": "^3.9.2",
+    "request": "^2.55.0"
+  }
 }

@@ -1,5 +1,9 @@
 # apkJSCrawler-GooglePlay
-Google Play plugin for apkJSCrawler
+Google Play plugin for [apkJSCrawler](https://github.com/jacksonchen/apkJSCrawler)
+
+## Setup
+
+This plugin uses a [Google Play Crawler](https://github.com/Akdeniz/google-play-crawler). Place the path to the `googleplaycrawler-0.3.jar` file in the `settings.json` file. The jar file and the `crawler.conf` file need to be in the same directory for the plugin to properly work.
 
 ## License
 
