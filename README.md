@@ -1,5 +1,5 @@
 # apkJSCrawler-GooglePlay
-Google Play plugin for [apkJSCrawler](https://github.com/jacksonchen/apkJSCrawler)
+Google Play plugin for [![Build Status](https://travis-ci.org/jacksonchen/apkJSCrawler-GooglePlay.svg?branch=master)](https://travis-ci.org/jacksonchen/apkJSCrawler-GooglePlay)
 
 ## Setup
 
