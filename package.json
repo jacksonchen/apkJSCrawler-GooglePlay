@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jacksonchen/apkJSCrawler-GooglePlay",
   "dependencies": {
+    "graceful-fs": "^3.0.8",
     "lodash": "^3.9.2",
     "request": "^2.55.0"
   },
