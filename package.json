@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jacksonchen/apkJSCrawler-GooglePlay",
   "dependencies": {
+    "async": "^1.2.0",
     "config": "^1.14.0",
     "exec-queue": "0.0.2",
     "graceful-fs": "^3.0.8",
