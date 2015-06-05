@@ -22,7 +22,8 @@
     "exec-queue": "0.0.2",
     "graceful-fs": "^3.0.8",
     "lodash": "^3.9.2",
-    "request": "^2.55.0"
+    "request": "^2.55.0",
+    "semaphore": "^1.0.2"
   },
   "devDependencies": {
     "chai": "^2.3.0",
